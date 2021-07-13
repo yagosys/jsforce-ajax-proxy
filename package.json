@@ -3,6 +3,6 @@
   "private": true,
   "dependencies": {
     "express": "3.12.x",
-    "request": "2.36.x"
+    "request": "2.88.2"
   }
 }
